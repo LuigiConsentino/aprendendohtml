@@ -1,0 +1,32 @@
+body{
+
+	background-color: green;
+	color: #fff;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h1{
+ color: black;
+text-align: center;
+}
+h2{
+	color: black;
+}
+p{
+	font-size: 18px;
+	text-align: justify;
+}
+
+img{
+	width: 70%;
+}
+
+figure{
+
+	text-align: center;
+}
+
+iframe{
+	text-align: center;
+}
